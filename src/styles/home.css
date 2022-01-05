@@ -4,6 +4,8 @@ body {
     margin: 0;
     padding: 0;
     background-image: url('../static/home_background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .reminders {
@@ -105,7 +107,7 @@ body {
     font-size: 12px;
     font-weight: 400;
     letter-spacing: 0.15px;
-    color: #F2F2F2;
+    color: #FFFFFF;
 }
 
 .workouts .item .tags {
@@ -113,5 +115,5 @@ body {
     font-size: 10px;
     font-weight: 400;
     letter-spacing: 0.15px;
-    color: #F2F2F2;
+    color: #FFFFFF;
 }
